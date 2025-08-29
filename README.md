@@ -4,7 +4,7 @@
 
 ---
 
-## Remotion Quickstart — Render Image & Video Posts
+## Remotion : Render Image & Video Posts
 
 This repository contains the code used in the Remotion Quickstart tutorial video. It demonstrates how to build a simple image and short vertical video composition that uses Pexels as a background source and overlays a quote.
 
